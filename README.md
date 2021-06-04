@@ -10,7 +10,7 @@
 <p class="has-line-data" data-line-start="12" data-line-end="15">You must have Java installed in your system in order to use this GPA calculator<br>
 Download the “UEGpa.java” file.<br>
 Open Command Prompt or Terminal &amp; Execute the following commands:</p>
-<pre><code class="has-line-data" data-line-start="17" data-line-end="21" class="language-sh"><span class="hljs-built_in">cd</span> PathOfDirectoryWhereYouPlacedTheile
+<pre><code class="has-line-data" data-line-start="17" data-line-end="21" class="language-sh"><span class="hljs-built_in">cd</span> PathOfDirectoryWhereYouPlacedTheFile
 javac UEGpa.java
 java UEGpa
 </code></pre>
